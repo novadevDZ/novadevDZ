@@ -1,13 +1,135 @@
-# 👋 Hi, I'm Nova
+<div align="center">
+
+# SYSTEMA
+
+### Premium Web Experiences • Business Automation • Digital Growth
+
+We build high-converting digital systems that help businesses attract more customers, automate operations, and elevate their brand online.
+
+---
+
+*"A website should not only look beautiful—it should generate business."*
+
+</div>
+
+## 🚀 About
+
+SYSTEMA is a digital studio focused on creating premium web solutions for modern businesses.
+
+Our mission is simple:
+
+- Transform visitors into customers.
+- Automate repetitive business tasks.
+- Build elegant digital experiences.
+- Increase trust and brand authority.
+
+Every project is designed with one objective:
+
+**Deliver measurable business results.**
+
+---
+
+## 💼 Services
+
+### 🌐 Landing Pages
+
+High-converting landing pages designed to maximize leads and sales.
+
+### 🛍 Business Websites
+
+Modern, responsive websites tailored to your brand identity.
+
+### ⚡ Business Automation
+
+Automate workflows using modern APIs and AI tools.
+
+Examples:
+
+- WhatsApp Automation
+- Lead Collection
+- Appointment Booking
+- CRM Integrations
+- Email Automation
+
+### 🎨 UI/UX Design
+
+Premium interfaces focused on clarity, elegance, and conversion.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- JavaScript (ES6+)
+
+### Backend
+
+- Node.js
+- Express.js
+- PostgreSQL
+- REST APIs
+
+### Tools
+
+- Git
+- GitHub
+- Figma
+- Vercel
+- Cloudflare
+
+---
+
+## 🎯 Our Philosophy
+
+We believe every business deserves more than a website.
+
+It deserves a digital system that:
+
+- builds trust
+- attracts customers
+- automates operations
+- increases revenue
+
+---
+
+## 📈 What Makes SYSTEMA Different?
+
+✅ Business-first approach
+
+✅ Luxury & modern UI
+
+✅ Mobile-first development
+
+✅ Performance optimized
+
+✅ SEO friendly
+
+✅ Clean scalable architecture
+
+✅ Automation focused
+
+---
+
+## 🤝 Let's Build Something Great
+
+Whether you're launching a startup, growing a local business, or redesigning your online presence, SYSTEMA is ready to help transform your vision into a professional digital experience.
+
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0F0F,50:2B2B2B,100:F5D061&text=Nova&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20Automation%20Builder%20•%20Cybersecurity&descAlignY=58"/>
+### SYSTEMA
 
-<br>
+**Premium Digital Experiences**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=F5D061&center=true&vCenter=true&width=1000&lines=Building+Scalable+Software;Business+Automation+Systems;Security-First+Engineering;Modern+Full-Stack+Applications;Transforming+Ideas+Into+Products"/>
+Made with ❤️ using React, Node.js & Modern Web Technologies
 
+</div>
 <br><br>
 
 <a href="https://your-portfolio.com">
