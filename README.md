@@ -4,9 +4,14 @@
 
 ### Full-Stack Web Developer • Landing Page Specialist • Business Automation
 
-Building premium landing pages and business websites that convert visitors into customers.
+Building premium digital experiences that help businesses grow, automate workflows, and convert visitors into customers.
 
-[Portfolio](#) • [LinkedIn](#) • [Email](mailto:your@email.com)
+<p>
+  <a href="https://github.com/novadevDZ">GitHub</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="https://YOUR_PORTFOLIO.com">Portfolio</a> •
+  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+</p>
 
 </div>
 
@@ -14,42 +19,42 @@ Building premium landing pages and business websites that convert visitors into 
 
 # 👋 About Me
 
-I'm a Full-Stack Web Developer passionate about helping businesses establish a powerful online presence.
+I'm a Full-Stack Web Developer passionate about creating modern web experiences that combine elegant design with real business value.
 
-I specialize in building:
+I focus on building digital products that are fast, scalable, and conversion-driven.
 
-- 🚀 High-converting Landing Pages
-- 🌐 Business Websites
+### I specialize in:
+
+- 🚀 High-Converting Landing Pages
+- 🌐 Modern Business Websites
 - ⚡ Business Automation
 - 📱 Responsive Web Applications
-- 🎨 Modern UI/UX Experiences
+- 🎨 Premium UI/UX Design
 
-My goal is simple:
-
-> Build websites that don't just look good—they generate leads, sales, and business growth.
+> **My mission is simple:** Build websites that don't just look beautiful—they help businesses grow.
 
 ---
 
 # 💼 Services
 
-## Landing Pages
+### 🚀 Landing Pages
 
-Conversion-focused landing pages designed to maximize customer inquiries and sales.
+Beautiful, high-converting landing pages optimized for marketing campaigns, product launches, and lead generation.
 
-## Business Websites
+### 🌐 Business Websites
 
-Professional websites tailored to showcase your business with a modern and trustworthy design.
+Professional websites designed to strengthen your brand and build customer trust.
 
-## Business Automation
+### ⚡ Business Automation
 
-Helping businesses save time by automating repetitive tasks.
+Automating repetitive workflows to save businesses time and improve efficiency.
 
-Examples:
+Examples include:
 
 - WhatsApp Automation
-- Contact Form Automation
 - Lead Collection
 - Appointment Booking
+- Contact Form Automation
 - Email Notifications
 
 ---
@@ -87,27 +92,35 @@ Examples:
 
 ## 👜 Bag Brand Landing Page
 
-Luxury landing page for a premium bag brand.
+**Repository:**  
+https://github.com/novadevDZ/bag-brand-landing
 
-**Features**
+A premium landing page for a luxury bag brand built with modern web technologies.
 
-- Responsive Design
-- Smooth Animations
-- Premium UI
-- Mobile Optimized
-- Fast Loading
+### Highlights
+
+- Premium UI Design
+- Responsive Layout
+- Mobile-First Experience
+- Product Showcase
+- Fast Performance
+- Reusable Components
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS`
 
 ---
 
-## 👠 Shoes Store Landing Page
+## 👠 Shoes Store Landing Page *(Coming Soon)*
 
-Modern landing page designed to increase product sales and customer engagement.
+Modern landing page designed to increase product engagement and online sales.
 
 ---
 
-## 👗 Abaya Store Landing Page
+## 👗 Abaya Store Landing Page *(Coming Soon)*
 
-Elegant landing page for fashion brands with a luxury aesthetic.
+Luxury fashion landing page focused on elegant branding and conversion.
 
 ---
 
@@ -116,13 +129,13 @@ Elegant landing page for fashion brands with a luxury aesthetic.
 ```text
 Next.js
       +
-Business Websites
-      +
 Landing Pages
+      +
+Business Websites
       +
 Automation
       =
-Helping Businesses Grow
+Digital Solutions That Drive Growth
 ```
 
 ---
@@ -137,40 +150,45 @@ Helping Businesses Grow
 
 ---
 
-# 💡 My Philosophy
+# 💡 Engineering Philosophy
 
-A website should:
+Every website should:
 
 - Build trust
-- Look premium
-- Load fast
-- Convert visitors
-- Generate revenue
+- Tell a compelling story
+- Load instantly
+- Work perfectly on every device
+- Generate measurable business results
 
 ---
 
 # 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=novadevDZ&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=novadevDZ&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=novadevDZ&theme=transparent"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=novadevDZ&theme=transparent&hide_border=true"/>
 
-</p>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novadevDZ&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🤝 Let's Work Together
 
-If you're looking for:
+I'm available for projects involving:
 
 - Premium Landing Pages
 - Business Websites
-- Modern UI Design
-- Automation Solutions
+- Responsive Frontend Development
+- Business Automation
+- Modern UI/UX Design
 
-Feel free to reach out.
+If you're looking to build a professional web presence or automate your business workflows, I'd be happy to collaborate.
 
 ---
 
@@ -180,6 +198,8 @@ Feel free to reach out.
 
 ### Building Digital Experiences That Convert
 
-⭐ Thanks for visiting my profile!
+*"Clean Code • Premium Design • Real Business Impact"*
+
+⭐ Thanks for visiting my profile.
 
 </div>
