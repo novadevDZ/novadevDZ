@@ -10,7 +10,7 @@ Building premium digital experiences that help businesses grow, automate workflo
   <a href="https://github.com/novadevDZ">GitHub</a> •
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
   <a href="https://YOUR_PORTFOLIO.com">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+  <a href="mailto:nova.bakhti@gmail.com">Email</a>
 </p>
 
 </div>
