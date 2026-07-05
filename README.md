@@ -1,366 +1,185 @@
 <div align="center">
 
-# SYSTEMA
+# Nova Dev
 
-### Premium Web Experiences • Business Automation • Digital Growth
+### Full-Stack Web Developer • Landing Page Specialist • Business Automation
 
-We build high-converting digital systems that help businesses attract more customers, automate operations, and elevate their brand online.
+Building premium landing pages and business websites that convert visitors into customers.
 
----
-
-*"A website should not only look beautiful—it should generate business."*
+[Portfolio](#) • [LinkedIn](#) • [Email](mailto:your@email.com)
 
 </div>
 
-## 🚀 About
+---
 
-SYSTEMA is a digital studio focused on creating premium web solutions for modern businesses.
+# 👋 About Me
 
-Our mission is simple:
+I'm a Full-Stack Web Developer passionate about helping businesses establish a powerful online presence.
 
-- Transform visitors into customers.
-- Automate repetitive business tasks.
-- Build elegant digital experiences.
-- Increase trust and brand authority.
+I specialize in building:
 
-Every project is designed with one objective:
+- 🚀 High-converting Landing Pages
+- 🌐 Business Websites
+- ⚡ Business Automation
+- 📱 Responsive Web Applications
+- 🎨 Modern UI/UX Experiences
 
-**Deliver measurable business results.**
+My goal is simple:
+
+> Build websites that don't just look good—they generate leads, sales, and business growth.
 
 ---
 
-## 💼 Services
+# 💼 Services
 
-### 🌐 Landing Pages
+## Landing Pages
 
-High-converting landing pages designed to maximize leads and sales.
+Conversion-focused landing pages designed to maximize customer inquiries and sales.
 
-### 🛍 Business Websites
+## Business Websites
 
-Modern, responsive websites tailored to your brand identity.
+Professional websites tailored to showcase your business with a modern and trustworthy design.
 
-### ⚡ Business Automation
+## Business Automation
 
-Automate workflows using modern APIs and AI tools.
+Helping businesses save time by automating repetitive tasks.
 
 Examples:
 
 - WhatsApp Automation
+- Contact Form Automation
 - Lead Collection
 - Appointment Booking
-- CRM Integrations
-- Email Automation
-
-### 🎨 UI/UX Design
-
-Premium interfaces focused on clarity, elegance, and conversion.
+- Email Notifications
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
-- React
 - Next.js
+- React
+- TypeScript
 - Tailwind CSS
-- Framer Motion
-- JavaScript (ES6+)
+- Shadcn UI
 
 ### Backend
 
 - Node.js
 - Express.js
+- REST API
+
+### Database
+
 - PostgreSQL
-- REST APIs
 
 ### Tools
 
 - Git
 - GitHub
-- Figma
 - Vercel
-- Cloudflare
+- Figma
 
 ---
 
-## 🎯 Our Philosophy
+# 🚀 Featured Projects
 
-We believe every business deserves more than a website.
+## 👜 Bag Brand Landing Page
 
-It deserves a digital system that:
+Luxury landing page for a premium bag brand.
 
-- builds trust
-- attracts customers
-- automates operations
-- increases revenue
+**Features**
 
----
-
-## 📈 What Makes SYSTEMA Different?
-
-✅ Business-first approach
-
-✅ Luxury & modern UI
-
-✅ Mobile-first development
-
-✅ Performance optimized
-
-✅ SEO friendly
-
-✅ Clean scalable architecture
-
-✅ Automation focused
+- Responsive Design
+- Smooth Animations
+- Premium UI
+- Mobile Optimized
+- Fast Loading
 
 ---
 
-## 🤝 Let's Build Something Great
+## 👠 Shoes Store Landing Page
 
-Whether you're launching a startup, growing a local business, or redesigning your online presence, SYSTEMA is ready to help transform your vision into a professional digital experience.
-
----
-
-<div align="center">
-
-### SYSTEMA
-
-**Premium Digital Experiences**
-
-Made with ❤️ using React, Node.js & Modern Web Technologies
-
-</div>
-<br><br>
-
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=F5D061&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
-
-</div>
+Modern landing page designed to increase product sales and customer engagement.
 
 ---
 
-# ⚡ About Me
+## 👗 Abaya Store Landing Page
 
-I am a Full-Stack Engineer passionate about building software that is:
-
-* Scalable
-* Secure
-* Automated
-* User-Centric
-
-My work focuses on combining modern engineering practices, business automation, and cybersecurity principles to create products that generate real business value.
-
-I enjoy designing systems that are not only technically robust but also efficient, maintainable, and impactful.
+Elegant landing page for fashion brands with a luxury aesthetic.
 
 ---
 
-# 🎯 Mission
-
-> Build software that eliminates friction, automates complexity, and scales effortlessly.
-
----
-
-# 🛠 Technology Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,postgres,mongodb,prisma,tailwind,docker,git,github,linux,vscode"/>
-
-</div>
-
----
-
-# 💻 Core Expertise
-
-### Frontend Engineering
-
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* Shadcn UI
-* Responsive Design
-* UI/UX Optimization
-
-### Backend Engineering
-
-* Node.js
-* REST APIs
-* Authentication & Authorization
-* Server Architecture
-* API Integration
-
-### Data Layer
-
-* PostgreSQL
-* MongoDB
-* Prisma ORM
-* Database Design
-
-### Business Automation
-
-* Workflow Automation
-* AI-Powered Systems
-* CRM Integrations
-* Process Optimization
-
-### Cybersecurity
-
-* Secure Development Practices
-* OWASP Principles
-* Access Control
-* Authentication Systems
-* Security Awareness
-
----
-
-# 🚀 Featured Project
-
-## Issue Tracker Platform
-
-Enterprise-inspired issue management platform designed to improve team productivity and project visibility.
-
-### Highlights
-
-* Authentication & Authorization
-* Dashboard Analytics
-* Issue Lifecycle Management
-* Team Collaboration
-* Scalable Database Architecture
-
-### Tech Stack
+# 🎯 Current Focus
 
 ```text
-Next.js • TypeScript • PostgreSQL • Prisma • Tailwind CSS
+Next.js
+      +
+Business Websites
+      +
+Landing Pages
+      +
+Automation
+      =
+Helping Businesses Grow
 ```
 
 ---
 
-# 📈 Current Focus
+# 📚 Currently Learning
 
-```text
-Full-Stack Engineering
-        +
-Business Automation
-        +
-Cybersecurity
-        =
-High-Impact Digital Systems
-```
+- Advanced Next.js
+- AI Automation
+- Business Systems
+- Full-Stack Architecture
+- Cybersecurity Fundamentals
 
 ---
 
-# 📊 GitHub Analytics
+# 💡 My Philosophy
 
-<div align="center">
+A website should:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
+- Build trust
+- Look premium
+- Load fast
+- Convert visitors
+- Generate revenue
 
 ---
 
-# 🏆 Achievements
+# 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api?username=novadevDZ&show_icons=true&theme=transparent"/>
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=novadevDZ&theme=transparent"/>
 
----
-
-# 📚 Currently Exploring
-
-* Advanced System Design
-* AI Agents
-* Business Automation Architecture
-* Cloud Infrastructure
-* Cybersecurity Fundamentals
-* Secure Software Development
+</p>
 
 ---
 
-# 📜 Engineering Principles
+# 🤝 Let's Work Together
 
-```text
-01. Build for scale.
-02. Prioritize simplicity.
-03. Automate intelligently.
-04. Security is mandatory.
-05. Performance matters.
-06. Deliver measurable value.
-07. Focus on long-term maintainability.
-08. Never stop learning.
-```
+If you're looking for:
 
----
+- Premium Landing Pages
+- Business Websites
+- Modern UI Design
+- Automation Solutions
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🌍 Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-GitHub
-</a>
-•
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
-</a>
-•
-<a href="https://your-portfolio.com">
-Portfolio
-</a>
-
-</div>
+Feel free to reach out.
 
 ---
 
 <div align="center">
 
-## Nova
+## Nova Dev
 
-### Full-Stack Engineer • Automation Builder • Cybersecurity Enthusiast
+### Building Digital Experiences That Convert
 
-Building technology that is scalable, secure, and impactful.
-
-⭐ If you like my work, consider following my journey.
+⭐ Thanks for visiting my profile!
 
 </div>
