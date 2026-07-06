@@ -112,11 +112,28 @@ A premium landing page for a luxury bag brand built with modern web technologies
 
 ---
 
-## 👠 Shoes Store Landing Page *(Coming Soon)*
+## 👟 Shoe Brand Landing Page
 
-Modern landing page designed to increase product engagement and online sales.
+**Repository:**  
+https://github.com/novadevDZ/shoe-brand-landing
+
+A modern and elegant landing page for a premium footwear brand, designed to showcase collections with a clean aesthetic and conversion-focused user experience.
+
+### Highlights
+
+- Luxury Brand Design
+- Responsive Layout
+- Interactive Product Showcase
+- Mobile-First Experience
+- Optimized Performance
+- Reusable Component Architecture
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS`
 
 ---
+
 
 ## 👗 Abaya Store Landing Page *(Coming Soon)*
 
