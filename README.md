@@ -135,10 +135,27 @@ A modern and elegant landing page for a premium footwear brand, designed to show
 ---
 
 
-## 👗 Abaya Store Landing Page *(Coming Soon)*
+## 👗 Abaya Fashion Landing
 
-Luxury fashion landing page focused on elegant branding and conversion.
+**Repository:**  
+https://github.com/novadevDZ/ABAYA-FASHION-LANDING
 
+A premium landing page designed for a luxury abaya fashion brand. Built with a modern, elegant aesthetic to showcase collections, highlight craftsmanship, and provide a seamless shopping experience across all devices.
+
+### Highlights
+
+- Luxury Fashion UI/UX
+- Elegant Product Showcase
+- Fully Responsive Design
+- Mobile-First Experience
+- Smooth User Experience
+- High Performance
+- SEO-Friendly Structure
+- Reusable Component Architecture
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS`
 ---
 
 # 🎯 Current Focus
