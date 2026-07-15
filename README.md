@@ -158,6 +158,40 @@ A premium landing page designed for a luxury abaya fashion brand. Built with a m
 `Next.js` • `React` • `TypeScript` • `Tailwind CSS`
 ---
 
+## 🦷 Elite Dental Clinic Landing Page
+
+**Repository:**  
+https://github.com/novadevDZ/dentist-landing
+
+**Live Demo:**  
+https://dentist-landing-delta.vercel.app/
+
+A premium, high-converting landing page designed for a modern dental clinic. Built with a clean, luxurious aesthetic to inspire trust, showcase professional services, and encourage patients to book appointments through an intuitive and responsive user experience.
+
+### Highlights
+
+- Premium Healthcare UI/UX
+- Fully Responsive Design
+- Mobile-First Experience
+- Interactive Clinic Gallery
+- Doctors Showcase
+- Patient Testimonials
+- FAQ Section
+- WhatsApp Appointment Booking
+- Google Maps Integration
+- Smooth Animations
+- Fast Performance
+- SEO-Friendly Structure
+- Reusable Component Architecture
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
+
+🌐 **Live Website:** https://dentist-landing-delta.vercel.app/
+
+---
+
 # 🎯 Current Focus
 
 ```text
